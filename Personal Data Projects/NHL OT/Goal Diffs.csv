@@ -1,0 +1,486 @@
+Team,Games Played,Goals Scored,GSPG,Goals Allowed,GAPG,Year,Conference
+Philadelphia Flyers*,82,267,3.3,259,3.2,2006,East
+New Jersey Devils*,82,242,3.0,229,2.8,2006,East
+New York Rangers*,82,257,3.1,215,2.6,2006,East
+New York Islanders,82,230,2.8,278,3.4,2006,East
+Pittsburgh Penguins,82,244,3.0,316,3.9,2006,East
+Ottawa Senators*,82,314,3.8,211,2.6,2006,East
+Buffalo Sabres*,82,281,3.4,239,2.9,2006,East
+Montreal Canadiens*,82,243,3.0,247,3.0,2006,East
+Toronto Maple Leafs,82,257,3.1,270,3.3,2006,East
+Boston Bruins,82,230,2.8,266,3.2,2006,East
+Carolina Hurricanes*,82,294,3.6,260,3.2,2006,East
+Tampa Bay Lightning*,82,252,3.1,260,3.2,2006,East
+Atlanta Thrashers,82,281,3.4,275,3.4,2006,East
+Florida Panthers,82,240,2.9,257,3.1,2006,East
+Washington Capitals,82,237,2.9,306,3.7,2006,East
+Detroit Red Wings*,82,305,3.7,209,2.5,2006,West
+Nashville Predators*,82,259,3.2,227,2.8,2006,West
+Columbus Blue Jackets,82,223,2.7,279,3.4,2006,West
+Chicago Blackhawks,82,211,2.6,285,3.5,2006,West
+St. Louis Blues,82,197,2.4,292,3.6,2006,West
+Calgary Flames*,82,218,2.7,200,2.4,2006,West
+Colorado Avalanche*,82,283,3.5,257,3.1,2006,West
+Edmonton Oilers*,82,256,3.1,251,3.1,2006,West
+Vancouver Canucks,82,256,3.1,255,3.1,2006,West
+Minnesota Wild,82,231,2.8,215,2.6,2006,West
+Dallas Stars*,82,265,3.2,218,2.7,2006,West
+San Jose Sharks*,82,266,3.2,242,3.0,2006,West
+Mighty Ducks of Anaheim*,82,254,3.1,229,2.8,2006,West
+Los Angeles Kings,82,249,3.0,270,3.3,2006,West
+Phoenix Coyotes,82,246,3.0,271,3.3,2006,West
+New Jersey Devils*,82,216,2.6,201,2.5,2007,East
+Pittsburgh Penguins*,82,277,3.4,246,3.0,2007,East
+New York Rangers*,82,242,3.0,216,2.6,2007,East
+New York Islanders*,82,248,3.0,240,2.9,2007,East
+Philadelphia Flyers,82,214,2.6,303,3.7,2007,East
+Buffalo Sabres*,82,308,3.8,242,3.0,2007,East
+Ottawa Senators*,82,288,3.5,222,2.7,2007,East
+Toronto Maple Leafs,82,258,3.1,269,3.3,2007,East
+Montreal Canadiens,82,245,3.0,256,3.1,2007,East
+Boston Bruins,82,219,2.7,289,3.5,2007,East
+Atlanta Thrashers*,82,246,3.0,245,3.0,2007,East
+Tampa Bay Lightning*,82,253,3.1,261,3.2,2007,East
+Carolina Hurricanes,82,241,2.9,253,3.1,2007,East
+Florida Panthers,82,247,3.0,257,3.1,2007,East
+Washington Capitals,82,235,2.9,286,3.5,2007,East
+Detroit Red Wings*,82,254,3.1,199,2.4,2007,West
+Nashville Predators*,82,272,3.3,212,2.6,2007,West
+St. Louis Blues,82,214,2.6,254,3.1,2007,West
+Columbus Blue Jackets,82,201,2.5,249,3.0,2007,West
+Chicago Blackhawks,82,201,2.5,258,3.1,2007,West
+Vancouver Canucks*,82,222,2.7,201,2.5,2007,West
+Minnesota Wild*,82,235,2.9,191,2.3,2007,West
+Calgary Flames*,82,258,3.1,226,2.8,2007,West
+Colorado Avalanche,82,272,3.3,251,3.1,2007,West
+Edmonton Oilers,82,195,2.4,248,3.0,2007,West
+Anaheim Ducks*,82,258,3.1,208,2.5,2007,West
+San Jose Sharks*,82,258,3.1,199,2.4,2007,West
+Dallas Stars*,82,226,2.8,197,2.4,2007,West
+Los Angeles Kings,82,227,2.8,283,3.5,2007,West
+Phoenix Coyotes,82,216,2.6,284,3.5,2007,West
+Pittsburgh Penguins*,82,247,3.0,216,2.6,2008,East
+New Jersey Devils*,82,206,2.5,197,2.4,2008,East
+New York Rangers*,82,213,2.6,199,2.4,2008,East
+Philadelphia Flyers*,82,248,3.0,233,2.8,2008,East
+New York Islanders,82,194,2.4,243,3.0,2008,East
+Montreal Canadiens*,82,262,3.2,222,2.7,2008,East
+Ottawa Senators*,82,261,3.2,247,3.0,2008,East
+Boston Bruins*,82,212,2.6,222,2.7,2008,East
+Buffalo Sabres,82,255,3.1,242,3.0,2008,East
+Toronto Maple Leafs,82,231,2.8,260,3.2,2008,East
+Washington Capitals*,82,242,3.0,231,2.8,2008,East
+Carolina Hurricanes,82,252,3.1,249,3.0,2008,East
+Florida Panthers,82,216,2.6,226,2.8,2008,East
+Atlanta Thrashers,82,216,2.6,272,3.3,2008,East
+Tampa Bay Lightning,82,223,2.7,267,3.3,2008,East
+Detroit Red Wings*,82,257,3.1,184,2.2,2008,West
+Nashville Predators*,82,230,2.8,229,2.8,2008,West
+Chicago Blackhawks,82,239,2.9,235,2.9,2008,West
+Columbus Blue Jackets,82,193,2.4,218,2.7,2008,West
+St. Louis Blues,82,205,2.5,237,2.9,2008,West
+Minnesota Wild*,82,223,2.7,218,2.7,2008,West
+Colorado Avalanche*,82,231,2.8,219,2.7,2008,West
+Calgary Flames*,82,229,2.8,227,2.8,2008,West
+Vancouver Canucks,82,213,2.6,215,2.6,2008,West
+Edmonton Oilers,82,235,2.9,251,3.1,2008,West
+San Jose Sharks*,82,222,2.7,193,2.4,2008,West
+Anaheim Ducks*,82,205,2.5,191,2.3,2008,West
+Dallas Stars*,82,242,3.0,207,2.5,2008,West
+Phoenix Coyotes,82,214,2.6,231,2.8,2008,West
+Los Angeles Kings,82,231,2.8,266,3.2,2008,West
+New Jersey Devils*,82,244,3.0,209,2.5,2009,East
+Philadelphia Flyers*,82,264,3.2,238,2.9,2009,East
+Pittsburgh Penguins*,82,264,3.2,239,2.9,2009,East
+New York Rangers*,82,210,2.6,218,2.7,2009,East
+New York Islanders,82,201,2.5,279,3.4,2009,East
+Boston Bruins*,82,274,3.3,196,2.4,2009,East
+Montreal Canadiens*,82,249,3.0,247,3.0,2009,East
+Buffalo Sabres,82,250,3.0,234,2.9,2009,East
+Ottawa Senators,82,217,2.6,237,2.9,2009,East
+Toronto Maple Leafs,82,250,3.0,293,3.6,2009,East
+Washington Capitals*,82,272,3.3,245,3.0,2009,East
+Carolina Hurricanes*,82,239,2.9,226,2.8,2009,East
+Florida Panthers,82,234,2.9,231,2.8,2009,East
+Atlanta Thrashers,82,257,3.1,280,3.4,2009,East
+Tampa Bay Lightning,82,210,2.6,279,3.4,2009,East
+Detroit Red Wings*,82,295,3.6,244,3.0,2009,West
+Chicago Blackhawks*,82,264,3.2,216,2.6,2009,West
+Columbus Blue Jackets*,82,226,2.8,230,2.8,2009,West
+St. Louis Blues*,82,233,2.8,233,2.8,2009,West
+Nashville Predators,82,213,2.6,233,2.8,2009,West
+Vancouver Canucks*,82,246,3.0,220,2.7,2009,West
+Calgary Flames*,82,254,3.1,248,3.0,2009,West
+Minnesota Wild,82,219,2.7,200,2.4,2009,West
+Edmonton Oilers,82,234,2.9,248,3.0,2009,West
+Colorado Avalanche,82,199,2.4,257,3.1,2009,West
+San Jose Sharks*,82,257,3.1,204,2.5,2009,West
+Anaheim Ducks*,82,245,3.0,238,2.9,2009,West
+Dallas Stars,82,230,2.8,257,3.1,2009,West
+Phoenix Coyotes,82,208,2.5,252,3.1,2009,West
+Los Angeles Kings,82,207,2.5,234,2.9,2009,West
+New Jersey Devils*,82,222,2.7,191,2.3,2010,East
+Pittsburgh Penguins*,82,257,3.1,237,2.9,2010,East
+Philadelphia Flyers*,82,236,2.9,225,2.7,2010,East
+New York Rangers,82,222,2.7,218,2.7,2010,East
+New York Islanders,82,222,2.7,264,3.2,2010,East
+Buffalo Sabres*,82,235,2.9,207,2.5,2010,East
+Ottawa Senators*,82,225,2.7,238,2.9,2010,East
+Boston Bruins*,82,206,2.5,200,2.4,2010,East
+Montreal Canadiens*,82,217,2.6,223,2.7,2010,East
+Toronto Maple Leafs,82,214,2.6,267,3.3,2010,East
+Washington Capitals*,82,318,3.9,233,2.8,2010,East
+Atlanta Thrashers,82,234,2.9,256,3.1,2010,East
+Carolina Hurricanes,82,230,2.8,256,3.1,2010,East
+Tampa Bay Lightning,82,217,2.6,260,3.2,2010,East
+Florida Panthers,82,208,2.5,244,3.0,2010,East
+Chicago Blackhawks*,82,271,3.3,209,2.5,2010,West
+Detroit Red Wings*,82,229,2.8,216,2.6,2010,West
+Nashville Predators*,82,225,2.7,225,2.7,2010,West
+St. Louis Blues,82,225,2.7,223,2.7,2010,West
+Columbus Blue Jackets,82,216,2.6,259,3.2,2010,West
+Vancouver Canucks*,82,272,3.3,222,2.7,2010,West
+Colorado Avalanche*,82,244,3.0,233,2.8,2010,West
+Calgary Flames,82,204,2.5,210,2.6,2010,West
+Minnesota Wild,82,219,2.7,246,3.0,2010,West
+Edmonton Oilers,82,214,2.6,284,3.5,2010,West
+San Jose Sharks*,82,264,3.2,215,2.6,2010,West
+Phoenix Coyotes*,82,225,2.7,202,2.5,2010,West
+Los Angeles Kings*,82,241,2.9,219,2.7,2010,West
+Anaheim Ducks,82,238,2.9,251,3.1,2010,West
+Dallas Stars,82,237,2.9,254,3.1,2010,West
+Philadelphia Flyers*,82,259,3.2,223,2.7,2011,East
+Pittsburgh Penguins*,82,238,2.9,199,2.4,2011,East
+New York Rangers*,82,233,2.8,198,2.4,2011,East
+New Jersey Devils,82,174,2.1,209,2.5,2011,East
+New York Islanders,82,229,2.8,264,3.2,2011,East
+Boston Bruins*,82,246,3.0,195,2.4,2011,East
+Montreal Canadiens*,82,216,2.6,209,2.5,2011,East
+Buffalo Sabres*,82,245,3.0,229,2.8,2011,East
+Toronto Maple Leafs,82,218,2.7,251,3.1,2011,East
+Ottawa Senators,82,192,2.3,250,3.0,2011,East
+Washington Capitals*,82,224,2.7,197,2.4,2011,East
+Tampa Bay Lightning*,82,247,3.0,240,2.9,2011,East
+Carolina Hurricanes,82,236,2.9,239,2.9,2011,East
+Atlanta Thrashers,82,223,2.7,269,3.3,2011,East
+Florida Panthers,82,195,2.4,229,2.8,2011,East
+Detroit Red Wings*,82,261,3.2,241,2.9,2011,West
+Nashville Predators*,82,219,2.7,194,2.4,2011,West
+Chicago Blackhawks*,82,258,3.1,225,2.7,2011,West
+St. Louis Blues,82,240,2.9,234,2.9,2011,West
+Columbus Blue Jackets,82,215,2.6,258,3.1,2011,West
+Vancouver Canucks*,82,262,3.2,185,2.3,2011,West
+Calgary Flames,82,250,3.0,237,2.9,2011,West
+Minnesota Wild,82,206,2.5,233,2.8,2011,West
+Colorado Avalanche,82,227,2.8,288,3.5,2011,West
+Edmonton Oilers,82,193,2.4,269,3.3,2011,West
+San Jose Sharks*,82,248,3.0,213,2.6,2011,West
+Anaheim Ducks*,82,239,2.9,235,2.9,2011,West
+Phoenix Coyotes*,82,231,2.8,226,2.8,2011,West
+Los Angeles Kings*,82,219,2.7,198,2.4,2011,West
+Dallas Stars,82,227,2.8,233,2.8,2011,West
+New York Rangers*,82,226,2.8,187,2.3,2012,East
+Pittsburgh Penguins*,82,282,3.4,221,2.7,2012,East
+Philadelphia Flyers*,82,264,3.2,232,2.8,2012,East
+New Jersey Devils*,82,228,2.8,209,2.5,2012,East
+New York Islanders,82,203,2.5,255,3.1,2012,East
+Boston Bruins*,82,269,3.3,202,2.5,2012,East
+Ottawa Senators*,82,249,3.0,240,2.9,2012,East
+Buffalo Sabres,82,218,2.7,230,2.8,2012,East
+Toronto Maple Leafs,82,231,2.8,264,3.2,2012,East
+Montreal Canadiens,82,212,2.6,226,2.8,2012,East
+Florida Panthers*,82,203,2.5,227,2.8,2012,East
+Washington Capitals*,82,222,2.7,230,2.8,2012,East
+Tampa Bay Lightning,82,235,2.9,281,3.4,2012,East
+Winnipeg Jets,82,225,2.7,246,3.0,2012,East
+Carolina Hurricanes,82,213,2.6,243,3.0,2012,East
+St. Louis Blues*,82,210,2.6,165,2.0,2012,West
+Nashville Predators*,82,237,2.9,210,2.6,2012,West
+Detroit Red Wings*,82,248,3.0,203,2.5,2012,West
+Chicago Blackhawks*,82,248,3.0,238,2.9,2012,West
+Columbus Blue Jackets,82,202,2.5,262,3.2,2012,West
+Vancouver Canucks*,82,249,3.0,198,2.4,2012,West
+Calgary Flames,82,202,2.5,226,2.8,2012,West
+Colorado Avalanche,82,208,2.5,220,2.7,2012,West
+Minnesota Wild,82,177,2.2,226,2.8,2012,West
+Edmonton Oilers,82,212,2.6,239,2.9,2012,West
+Phoenix Coyotes*,82,216,2.6,204,2.5,2012,West
+San Jose Sharks*,82,228,2.8,210,2.6,2012,West
+Los Angeles Kings*,82,194,2.4,179,2.2,2012,West
+Dallas Stars,82,211,2.6,222,2.7,2012,West
+Anaheim Ducks,82,204,2.5,231,2.8,2012,West
+Pittsburgh Penguins*,48,165,3.4,119,2.5,2013,East
+New York Rangers*,48,130,2.7,112,2.3,2013,East
+New York Islanders*,48,139,2.9,139,2.9,2013,East
+Philadelphia Flyers,48,133,2.8,141,2.9,2013,East
+New Jersey Devils,48,112,2.3,129,2.7,2013,East
+Montreal Canadiens*,48,149,3.1,126,2.6,2013,East
+Boston Bruins*,48,131,2.7,109,2.3,2013,East
+Toronto Maple Leafs*,48,145,3.0,133,2.8,2013,East
+Ottawa Senators*,48,116,2.4,104,2.2,2013,East
+Buffalo Sabres,48,125,2.6,143,3.0,2013,East
+Washington Capitals*,48,149,3.1,130,2.7,2013,East
+Winnipeg Jets,48,128,2.7,144,3.0,2013,East
+Carolina Hurricanes,48,128,2.7,160,3.3,2013,East
+Tampa Bay Lightning,48,148,3.1,150,3.1,2013,East
+Florida Panthers,48,112,2.3,171,3.6,2013,East
+Chicago Blackhawks*,48,155,3.2,102,2.1,2013,West
+St. Louis Blues*,48,129,2.7,115,2.4,2013,West
+Detroit Red Wings*,48,124,2.6,115,2.4,2013,West
+Columbus Blue Jackets,48,120,2.5,119,2.5,2013,West
+Nashville Predators,48,111,2.3,139,2.9,2013,West
+Vancouver Canucks*,48,127,2.6,121,2.5,2013,West
+Minnesota Wild*,48,122,2.5,127,2.6,2013,West
+Edmonton Oilers,48,125,2.6,134,2.8,2013,West
+Calgary Flames,48,128,2.7,160,3.3,2013,West
+Colorado Avalanche,48,116,2.4,152,3.2,2013,West
+Anaheim Ducks*,48,140,2.9,118,2.5,2013,West
+Los Angeles Kings*,48,133,2.8,118,2.5,2013,West
+San Jose Sharks*,48,124,2.6,116,2.4,2013,West
+Phoenix Coyotes,48,125,2.6,131,2.7,2013,West
+Dallas Stars,48,130,2.7,142,3.0,2013,West
+Boston Bruins*,82,261,3.2,177,2.2,2014,East
+Tampa Bay Lightning*,82,240,2.9,215,2.6,2014,East
+Montreal Canadiens*,82,215,2.6,204,2.5,2014,East
+Detroit Red Wings*,82,222,2.7,230,2.8,2014,East
+Ottawa Senators,82,236,2.9,265,3.2,2014,East
+Toronto Maple Leafs,82,231,2.8,256,3.1,2014,East
+Florida Panthers,82,196,2.4,268,3.3,2014,East
+Buffalo Sabres,82,157,1.9,248,3.0,2014,East
+Pittsburgh Penguins*,82,249,3.0,207,2.5,2014,East
+New York Rangers*,82,218,2.7,193,2.4,2014,East
+Philadelphia Flyers*,82,236,2.9,235,2.9,2014,East
+Columbus Blue Jackets*,82,231,2.8,216,2.6,2014,East
+Washington Capitals,82,235,2.9,240,2.9,2014,East
+New Jersey Devils,82,197,2.4,208,2.5,2014,East
+Carolina Hurricanes,82,207,2.5,230,2.8,2014,East
+New York Islanders,82,225,2.7,267,3.3,2014,East
+Colorado Avalanche*,82,250,3.0,220,2.7,2014,West
+St. Louis Blues*,82,248,3.0,191,2.3,2014,West
+Chicago Blackhawks*,82,267,3.3,220,2.7,2014,West
+Minnesota Wild*,82,207,2.5,206,2.5,2014,West
+Dallas Stars*,82,235,2.9,228,2.8,2014,West
+Nashville Predators,82,216,2.6,242,3.0,2014,West
+Winnipeg Jets,82,227,2.8,237,2.9,2014,West
+Anaheim Ducks*,82,266,3.2,209,2.5,2014,West
+San Jose Sharks*,82,249,3.0,200,2.4,2014,West
+Los Angeles Kings*,82,206,2.5,174,2.1,2014,West
+Phoenix Coyotes,82,216,2.6,231,2.8,2014,West
+Vancouver Canucks,82,196,2.4,223,2.7,2014,West
+Calgary Flames,82,209,2.5,241,2.9,2014,West
+Edmonton Oilers,82,203,2.5,270,3.3,2014,West
+Montreal Canadiens*,82,221,2.7,189,2.3,2015,East
+Tampa Bay Lightning*,82,262,3.2,211,2.6,2015,East
+Detroit Red Wings*,82,235,2.9,221,2.7,2015,East
+Ottawa Senators*,82,238,2.9,215,2.6,2015,East
+Boston Bruins,82,213,2.6,211,2.6,2015,East
+Florida Panthers,82,206,2.5,223,2.7,2015,East
+Toronto Maple Leafs,82,211,2.6,262,3.2,2015,East
+Buffalo Sabres,82,161,2.0,274,3.3,2015,East
+New York Rangers*,82,252,3.1,192,2.3,2015,East
+New York Islanders*,82,252,3.1,230,2.8,2015,East
+Washington Capitals*,82,242,3.0,203,2.5,2015,East
+Pittsburgh Penguins*,82,221,2.7,210,2.6,2015,East
+Columbus Blue Jackets,82,236,2.9,250,3.0,2015,East
+Philadelphia Flyers,82,215,2.6,234,2.9,2015,East
+New Jersey Devils,82,181,2.2,216,2.6,2015,East
+Carolina Hurricanes,82,188,2.3,226,2.8,2015,East
+St. Louis Blues*,82,248,3.0,201,2.5,2015,West
+Nashville Predators*,82,232,2.8,208,2.5,2015,West
+Chicago Blackhawks*,82,229,2.8,189,2.3,2015,West
+Minnesota Wild*,82,231,2.8,201,2.5,2015,West
+Winnipeg Jets*,82,230,2.8,210,2.6,2015,West
+Dallas Stars,82,261,3.2,260,3.2,2015,West
+Colorado Avalanche,82,219,2.7,227,2.8,2015,West
+Anaheim Ducks*,82,236,2.9,226,2.8,2015,West
+Vancouver Canucks*,82,242,3.0,222,2.7,2015,West
+Calgary Flames*,82,241,2.9,216,2.6,2015,West
+Los Angeles Kings,82,220,2.7,205,2.5,2015,West
+San Jose Sharks,82,228,2.8,232,2.8,2015,West
+Edmonton Oilers,82,198,2.4,283,3.5,2015,West
+Arizona Coyotes,82,170,2.1,272,3.3,2015,West
+Florida Panthers*,82,239,2.9,203,2.5,2016,East
+Tampa Bay Lightning*,82,227,2.8,201,2.5,2016,East
+Detroit Red Wings*,82,211,2.6,224,2.7,2016,East
+Boston Bruins,82,240,2.9,230,2.8,2016,East
+Ottawa Senators,82,236,2.9,247,3.0,2016,East
+Montreal Canadiens,82,221,2.7,236,2.9,2016,East
+Buffalo Sabres,82,201,2.5,222,2.7,2016,East
+Toronto Maple Leafs,82,198,2.4,246,3.0,2016,East
+Washington Capitals*,82,252,3.1,193,2.4,2016,East
+Pittsburgh Penguins*,82,245,3.0,203,2.5,2016,East
+New York Rangers*,82,236,2.9,217,2.6,2016,East
+New York Islanders*,82,232,2.8,216,2.6,2016,East
+Philadelphia Flyers*,82,214,2.6,218,2.7,2016,East
+Carolina Hurricanes,82,198,2.4,226,2.8,2016,East
+New Jersey Devils,82,184,2.2,208,2.5,2016,East
+Columbus Blue Jackets,82,219,2.7,252,3.1,2016,East
+Dallas Stars*,82,267,3.3,230,2.8,2016,West
+St. Louis Blues*,82,224,2.7,201,2.5,2016,West
+Chicago Blackhawks*,82,235,2.9,209,2.5,2016,West
+Nashville Predators*,82,228,2.8,215,2.6,2016,West
+Minnesota Wild*,82,216,2.6,206,2.5,2016,West
+Colorado Avalanche,82,216,2.6,240,2.9,2016,West
+Winnipeg Jets,82,215,2.6,239,2.9,2016,West
+Anaheim Ducks*,82,218,2.7,192,2.3,2016,West
+Los Angeles Kings*,82,225,2.7,195,2.4,2016,West
+San Jose Sharks*,82,241,2.9,210,2.6,2016,West
+Arizona Coyotes,82,209,2.5,245,3.0,2016,West
+Calgary Flames,82,231,2.8,260,3.2,2016,West
+Vancouver Canucks,82,191,2.3,243,3.0,2016,West
+Edmonton Oilers,82,203,2.5,245,3.0,2016,West
+Montreal Canadiens*,82,226,2.8,200,2.4,2017,East
+Ottawa Senators*,82,212,2.6,214,2.6,2017,East
+Boston Bruins*,82,234,2.9,212,2.6,2017,East
+Toronto Maple Leafs*,82,251,3.1,242,3.0,2017,East
+Tampa Bay Lightning,82,234,2.9,227,2.8,2017,East
+Florida Panthers,82,210,2.6,237,2.9,2017,East
+Detroit Red Wings,82,207,2.5,244,3.0,2017,East
+Buffalo Sabres,82,201,2.5,237,2.9,2017,East
+Washington Capitals*,82,263,3.2,182,2.2,2017,East
+Pittsburgh Penguins*,82,282,3.4,234,2.9,2017,East
+Columbus Blue Jackets*,82,249,3.0,195,2.4,2017,East
+New York Rangers*,82,256,3.1,220,2.7,2017,East
+New York Islanders,82,241,2.9,242,3.0,2017,East
+Philadelphia Flyers,82,219,2.7,236,2.9,2017,East
+Carolina Hurricanes,82,215,2.6,236,2.9,2017,East
+New Jersey Devils,82,183,2.2,244,3.0,2017,East
+Chicago Blackhawks*,82,244,3.0,213,2.6,2017,West
+Minnesota Wild*,82,266,3.2,208,2.5,2017,West
+St. Louis Blues*,82,235,2.9,218,2.7,2017,West
+Nashville Predators*,82,240,2.9,224,2.7,2017,West
+Winnipeg Jets,82,249,3.0,256,3.1,2017,West
+Dallas Stars,82,223,2.7,262,3.2,2017,West
+Colorado Avalanche,82,166,2.0,278,3.4,2017,West
+Anaheim Ducks*,82,223,2.7,200,2.4,2017,West
+Edmonton Oilers*,82,247,3.0,212,2.6,2017,West
+San Jose Sharks*,82,221,2.7,201,2.5,2017,West
+Calgary Flames*,82,226,2.8,221,2.7,2017,West
+Los Angeles Kings,82,201,2.5,205,2.5,2017,West
+Arizona Coyotes,82,197,2.4,260,3.2,2017,West
+Vancouver Canucks,82,182,2.2,243,3.0,2017,West
+Tampa Bay Lightning*,82,296,3.6,236,2.9,2018,East
+Boston Bruins*,82,270,3.3,214,2.6,2018,East
+Toronto Maple Leafs*,82,277,3.4,232,2.8,2018,East
+Florida Panthers,82,248,3.0,246,3.0,2018,East
+Detroit Red Wings,82,217,2.6,255,3.1,2018,East
+Montreal Canadiens,82,209,2.5,264,3.2,2018,East
+Ottawa Senators,82,221,2.7,291,3.5,2018,East
+Buffalo Sabres,82,199,2.4,280,3.4,2018,East
+Washington Capitals*,82,259,3.2,239,2.9,2018,East
+Pittsburgh Penguins*,82,272,3.3,250,3.0,2018,East
+Philadelphia Flyers*,82,251,3.1,243,3.0,2018,East
+Columbus Blue Jackets*,82,242,3.0,230,2.8,2018,East
+New Jersey Devils*,82,248,3.0,244,3.0,2018,East
+Carolina Hurricanes,82,228,2.8,256,3.1,2018,East
+New York Islanders,82,264,3.2,296,3.6,2018,East
+New York Rangers,82,231,2.8,268,3.3,2018,East
+Nashville Predators*,82,267,3.3,211,2.6,2018,West
+Winnipeg Jets*,82,277,3.4,218,2.7,2018,West
+Minnesota Wild*,82,253,3.1,232,2.8,2018,West
+Colorado Avalanche*,82,257,3.1,237,2.9,2018,West
+St. Louis Blues,82,226,2.8,222,2.7,2018,West
+Dallas Stars,82,235,2.9,225,2.7,2018,West
+Chicago Blackhawks,82,229,2.8,256,3.1,2018,West
+Vegas Golden Knights*,82,272,3.3,228,2.8,2018,West
+Anaheim Ducks*,82,235,2.9,216,2.6,2018,West
+San Jose Sharks*,82,252,3.1,229,2.8,2018,West
+Los Angeles Kings*,82,239,2.9,203,2.5,2018,West
+Calgary Flames,82,218,2.7,248,3.0,2018,West
+Edmonton Oilers,82,234,2.9,263,3.2,2018,West
+Vancouver Canucks,82,218,2.7,264,3.2,2018,West
+Arizona Coyotes,82,208,2.5,256,3.1,2018,West
+Tampa Bay Lightning*,82,325,4.0,222,2.7,2019,East
+Boston Bruins*,82,259,3.2,215,2.6,2019,East
+Toronto Maple Leafs*,82,286,3.5,251,3.1,2019,East
+Montreal Canadiens,82,249,3.0,236,2.9,2019,East
+Florida Panthers,82,267,3.3,280,3.4,2019,East
+Buffalo Sabres,82,226,2.8,271,3.3,2019,East
+Detroit Red Wings,82,227,2.8,277,3.4,2019,East
+Ottawa Senators,82,242,3.0,302,3.7,2019,East
+Washington Capitals*,82,278,3.4,249,3.0,2019,East
+New York Islanders*,82,228,2.8,196,2.4,2019,East
+Pittsburgh Penguins*,82,273,3.3,241,2.9,2019,East
+Carolina Hurricanes*,82,245,3.0,223,2.7,2019,East
+Columbus Blue Jackets*,82,258,3.1,232,2.8,2019,East
+Philadelphia Flyers,82,244,3.0,281,3.4,2019,East
+New York Rangers,82,227,2.8,272,3.3,2019,East
+New Jersey Devils,82,222,2.7,275,3.4,2019,East
+Nashville Predators*,82,240,2.9,214,2.6,2019,West
+Winnipeg Jets*,82,272,3.3,244,3.0,2019,West
+St. Louis Blues*,82,247,3.0,223,2.7,2019,West
+Dallas Stars*,82,210,2.6,202,2.5,2019,West
+Colorado Avalanche*,82,260,3.2,246,3.0,2019,West
+Chicago Blackhawks,82,270,3.3,292,3.6,2019,West
+Minnesota Wild,82,211,2.6,237,2.9,2019,West
+Calgary Flames*,82,289,3.5,227,2.8,2019,West
+San Jose Sharks*,82,289,3.5,261,3.2,2019,West
+Vegas Golden Knights*,82,249,3.0,230,2.8,2019,West
+Arizona Coyotes,82,213,2.6,223,2.7,2019,West
+Vancouver Canucks,82,225,2.7,254,3.1,2019,West
+Anaheim Ducks,82,199,2.4,251,3.1,2019,West
+Edmonton Oilers,82,232,2.8,274,3.3,2019,West
+Los Angeles Kings,82,202,2.5,263,3.2,2019,West
+Boston Bruins*,70,227,3.2,174,2.5,2020,East
+Tampa Bay Lightning*,70,245,3.5,195,2.8,2020,East
+Toronto Maple Leafs*,70,238,3.4,227,3.2,2020,East
+Florida Panthers*,69,231,3.3,228,3.3,2020,East
+Montreal Canadiens*,71,212,3.0,221,3.1,2020,East
+Buffalo Sabres,69,195,2.8,217,3.1,2020,East
+Ottawa Senators,71,191,2.7,243,3.4,2020,East
+Detroit Red Wings,71,145,2.0,267,3.8,2020,East
+Washington Capitals*,69,240,3.5,215,3.1,2020,East
+Philadelphia Flyers*,69,232,3.4,196,2.8,2020,East
+Pittsburgh Penguins*,69,224,3.2,196,2.8,2020,East
+Carolina Hurricanes*,68,222,3.3,193,2.8,2020,East
+Columbus Blue Jackets*,70,180,2.6,187,2.7,2020,East
+New York Islanders*,68,192,2.8,193,2.8,2020,East
+New York Rangers*,70,234,3.3,222,3.2,2020,East
+New Jersey Devils,69,189,2.7,230,3.3,2020,East
+St. Louis Blues*,71,225,3.2,193,2.7,2020,West
+Colorado Avalanche*,70,237,3.4,191,2.7,2020,West
+Dallas Stars*,69,180,2.6,177,2.6,2020,West
+Winnipeg Jets*,71,216,3.0,203,2.9,2020,West
+Nashville Predators*,69,215,3.1,217,3.1,2020,West
+Minnesota Wild*,69,220,3.2,220,3.2,2020,West
+Chicago Blackhawks*,70,212,3.0,218,3.1,2020,West
+Vegas Golden Knights*,71,227,3.2,211,3.0,2020,West
+Edmonton Oilers*,71,225,3.2,217,3.1,2020,West
+Calgary Flames*,70,210,3.0,215,3.1,2020,West
+Vancouver Canucks*,69,228,3.3,217,3.1,2020,West
+Arizona Coyotes*,70,195,2.8,187,2.7,2020,West
+Anaheim Ducks,71,187,2.6,226,3.2,2020,West
+Los Angeles Kings,70,178,2.5,212,3.0,2020,West
+San Jose Sharks,70,182,2.6,226,3.2,2020,West
+Florida Panthers*,82,340,4.1,246,3.0,2022,East
+Toronto Maple Leafs*,82,315,3.8,253,3.1,2022,East
+Tampa Bay Lightning*,82,287,3.5,233,2.8,2022,East
+Boston Bruins*,82,255,3.1,220,2.7,2022,East
+Buffalo Sabres,82,232,2.8,290,3.5,2022,East
+Detroit Red Wings,82,230,2.8,312,3.8,2022,East
+Ottawa Senators,82,227,2.8,266,3.2,2022,East
+Montreal Canadiens,82,221,2.7,319,3.9,2022,East
+Carolina Hurricanes*,82,278,3.4,202,2.5,2022,East
+New York Rangers*,82,254,3.1,207,2.5,2022,East
+Pittsburgh Penguins*,82,272,3.3,229,2.8,2022,East
+Washington Capitals*,82,275,3.4,245,3.0,2022,East
+New York Islanders,82,231,2.8,237,2.9,2022,East
+Columbus Blue Jackets,82,262,3.2,300,3.7,2022,East
+New Jersey Devils,82,248,3.0,307,3.7,2022,East
+Philadelphia Flyers,82,211,2.6,298,3.6,2022,East
+Colorado Avalanche*,82,312,3.8,234,2.9,2022,West
+Minnesota Wild*,82,310,3.8,253,3.1,2022,West
+St. Louis Blues*,82,311,3.8,242,3.0,2022,West
+Dallas Stars*,82,238,2.9,246,3.0,2022,West
+Nashville Predators*,82,266,3.2,252,3.1,2022,West
+Winnipeg Jets,82,252,3.1,257,3.1,2022,West
+Chicago Blackhawks,82,219,2.7,291,3.5,2022,West
+Arizona Coyotes,82,207,2.5,313,3.8,2022,West
+Calgary Flames*,82,293,3.6,208,2.5,2022,West
+Edmonton Oilers*,82,290,3.5,252,3.1,2022,West
+Los Angeles Kings*,82,239,2.9,236,2.9,2022,West
+Vegas Golden Knights,82,266,3.2,248,3.0,2022,West
+Vancouver Canucks,82,249,3.0,236,2.9,2022,West
+San Jose Sharks,82,214,2.6,264,3.2,2022,West
+Anaheim Ducks,82,232,2.8,271,3.3,2022,West
+Seattle Kraken,82,216,2.6,285,3.5,2022,West

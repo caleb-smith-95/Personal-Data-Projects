@@ -1,0 +1,54 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+```
+
+
+```{r}
+this.dir = dirname(rstudioapi::getActiveDocumentContext()$path)
+setwd(this.dir)
+```
+
+```{r}
+library(readxl)
+X2000_NFL_Rushing_Leaders <- read_excel("2000 NFL Rushing Leaders.xlsx", 
+    skip = 1)
+View(X2000_NFL_Rushing_Leaders)
+```
+
+```{r}
+ggplot(X2000_NFL_Rushing_Leaders, aes(x=Age)) + geom_histogram(binwidth = 1)
+```
+
+```{r}
+ypa_age <- group_by(X2000_NFL_Rushing_Leaders, Age) %>% summarize(att = sum(Att), yds = sum(Yds)) %>% mutate(ypa = yds/att)
+```
+
+```{r}
+ggplot(ypa_age, aes(x=Age, y=ypa)) + geom_line()
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

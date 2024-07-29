@@ -1,0 +1,38 @@
+---
+title: "Presidential Data Analysis"
+output: html_notebook
+---
+
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+library(readxl)
+pres_data <- read_excel("Personal Data Projects/Presidential Data Analysis.xlsx")
+pres_mat <- as.matrix(pres_data)
+```
+
+
+
+```{r}
+rownames(pres_mat) <- pres_mat[,1]
+pres_mat <- pres_mat[,-1]
+```
+
+```{r}
+pres_df <- data.frame(pres_mat)
+```
+
+```{r}
+sum(pres_df == "D", na.rm = T)
+```
+
+
+
+
+
+
+
+
